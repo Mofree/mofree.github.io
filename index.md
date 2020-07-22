@@ -18,6 +18,7 @@ Add a new file in my repository. Open it by the link https://*username*.github.i
 [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll):
 Still reading for solution...  
 
+![测试文件](20200722.md)
 --------------------------------------------------------------------------  
 ## Welcome to GitHub Pages
 
