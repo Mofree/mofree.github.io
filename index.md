@@ -48,7 +48,8 @@ Now you can edit your .md file in your repository by using markdown to change yo
 [Line breaks in markdown](https://gist.github.com/shaunlebron/746476e6e7a4d698b373): Personal repository about line breaks in github Markdown.  
 
 - I got my homepage now, but how can I make more pages for my website?  
-[Creating new files](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files): Add a new file in my repository  
+[Creating new files](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files): 
+Add a new file in my repository. Open it by the link https://*username*.github.io/*filename*  
 (My own habit: two space for line break; two space + enter for new paragraph; enter if a sentence is too long)  
 
 - After I created a new .md file, I found it wasn't shown in my chosen Jekyll theme.  
