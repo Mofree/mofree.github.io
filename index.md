@@ -43,4 +43,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Well, I just followed the instructions below:
 
 [Getting Started with GitHub Pages](https://guides.github.com/features/pages/): Step by step to have a initial github pages.  
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Now you can edit your .md file in your repository by using markdown to change your page's content.
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Now you can edit your .md file in your repository by using markdown to change your page's content.  
+[Working with GitHub Pages](https://docs.github.com/en/github/working-with-github-pages): More instructions from GitHub Docs.
