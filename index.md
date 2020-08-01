@@ -30,6 +30,7 @@ I summarize a few points:
   - Ways to include images, downloads.  
   - Ways to create an index of posts on another page.  
   - Jekyll has first class support for tags and categories in blog posts.  
+  - You can access a snippet of a posts’s content by using excerpt variable on a post.  
 
 
 --------------------------------------------------------------------------  
