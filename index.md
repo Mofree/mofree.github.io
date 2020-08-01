@@ -17,7 +17,7 @@ Add a new file in my repository. Open it by the link https://*username*.github.i
 
 - After I created a new .md file, I found it wasn't shown in my chosen Jekyll theme.  
 [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll): Github docs about Jekyll.  
-[Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll): More presisely, I knew from this url that the main types of content for Jekyll sites are pages and posts.
+[Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll): More presisely, I knew from this url that the main types of content for Jekyll sites are pages and posts.  
 [Pages](https://jekyllrb.com/docs/pages/): "Pages" in the Jekyll documentation.  
 If I open a .md file by the link https://*username*.github.io/*filename.html* then the content will shown in my chosen Jekyll theme. Also, after that I found https://*username*.github.io/*filename* can achieve the same effect. The example is about pages, not posts.  
 
