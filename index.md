@@ -26,12 +26,19 @@ If I open a .md file by the link https://*username*.github.io/*filename.html* th
 I summarize a few points:  
   - All blog post files must begin with front matter.  
   - Jekyll uses the Liquid templating language to process templates.  
-  - Some predefined global variables can be set in the front matter of a page or post, while some can only be set for a post. (If I understood it correctly ^_^)  
+  - Some predefined global variables can be set in the front matter of a page or post, while some can only be set for a post. (If I understood it correctly)   
   - Ways to include images, downloads.  
   - Ways to create an index of posts on another page.  
   - Jekyll has first class support for tags and categories in blog posts.  
   - You can access a snippet of a posts’s content by using excerpt variable on a post.  
 
+- After a brief reading, I start to test the post function  
+  - I created a file under the folder '_posts', and the file's name should be like *YYYY-MM-DD-NAME-OF-POST.md* as instructions says.  
+  - I added YAML frontmatter at top of the file.  
+  - [Github Pages + jekyll 全面介绍极简搭建个人网站和博客](https://zhuanlan.zhihu.com/p/51240503): I admit that I find this instruction easy to understand.
+  - I followed the instruction above and created a blog_list.html file to show the brief information of my posts.  
+  - [This is the blog_list.html](https://mofree.github.io/blog_list.html)  
+  
 
 --------------------------------------------------------------------------  
 ## Welcome to GitHub Pages
