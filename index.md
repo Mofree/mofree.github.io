@@ -38,7 +38,12 @@ I summarize a few points:
   - [Github Pages + jekyll 全面介绍极简搭建个人网站和博客](https://zhuanlan.zhihu.com/p/51240503): I admit that I find this instruction easy to understand.
   - I followed the instruction above and created a blog_list.html file to show the brief information of my posts.  
   - [This is the blog_list.html](https://mofree.github.io/blog_list.html)  
-  
+  - Still some problems to be resloved...  
+
+- problems:  
+  - 上面的 blog_list 的链接里为什么没有内容？  
+  - Liquid表达只能在.html中写吗？不可以在.md文件中写吗？  
+  - 缩略显示post部分内容的功能如何实现？
 
 --------------------------------------------------------------------------  
 ## Welcome to GitHub Pages
