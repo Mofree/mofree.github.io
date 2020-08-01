@@ -23,6 +23,14 @@ If I open a .md file by the link https://*username*.github.io/*filename.html* th
 
 - So, how about posts?  
 [Posts](https://jekyllrb.com/docs/posts/): "Posts" in the Jekyll documentation.  
+I summarize a few points:  
+  - All blog post files must begin with front matter.  
+  - Jekyll uses the Liquid templating language to process templates.  
+  - Some predefined global variables can be set in the front matter of a page or post, while some can only be set for a post. (If I understood it correctly ^_^)  
+  - Ways to include images, downloads.  
+  - Ways to create an index of posts on another page.  
+  - Jekyll has first class support for tags and categories in blog posts.  
+
 
 --------------------------------------------------------------------------  
 ## Welcome to GitHub Pages
