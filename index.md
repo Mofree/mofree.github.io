@@ -13,11 +13,16 @@ Now you can edit your .md file in your repository by using markdown to change yo
 
 - I got my homepage now, but how can I make more pages for my website?  
 [Creating new files](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files): 
-Add a new file in my repository. Open it by the link https://*username*.github.io/*filename*  
+Add a new file in my repository. Open it by the link https://*username*.github.io/*filename.md* (more information see below)  
 
 - After I created a new .md file, I found it wasn't shown in my chosen Jekyll theme.  
-[Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll):
-Still reading for solution...  
+[Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll): Github docs about Jekyll.  
+[Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll): More presisely, I knew from this url that the main types of content for Jekyll sites are pages and posts.
+[Pages](https://jekyllrb.com/docs/pages/): "Pages" in the Jekyll documentation.  
+If I open a .md file by the link https://*username*.github.io/*filename.html* then the content will shown in my chosen Jekyll theme. Also, after that I found https://*username*.github.io/*filename* can achieve the same effect. The example is about pages, not posts.  
+
+- So, how about posts?  
+[Posts](https://jekyllrb.com/docs/posts/): "Posts" in the Jekyll documentation.  
 
 --------------------------------------------------------------------------  
 ## Welcome to GitHub Pages
