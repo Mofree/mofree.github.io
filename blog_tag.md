@@ -2,7 +2,7 @@
 layout: default
 title: Blog Tag
 ---
-**All my tags2**  
+**All my tags**  
 
 {% for tag in site.tags %}
 {{ tag[0] }}  
