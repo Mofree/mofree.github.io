@@ -7,5 +7,5 @@ title: Blog List
 {% for post in site.posts %}
  - [{{ post.title }}]({{ post.url }})  
  time: {{ post.date }}  
- tag: {% for tag in post.tags %}{{ tag }}{% endfor %}
+ tag: {% for tag in post.tags %}{{ tag }} {% endfor %}
 {% endfor %}
