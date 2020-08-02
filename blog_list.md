@@ -2,9 +2,9 @@
 layout: default
 title: Blog List
 ---
-# All my blogs3  
+# All my blogs4  
 
 {% for post in site.posts %}
  - [{{ post.title }}]({{ post.url }})  
-Brief Content: {{ post.excerpt }}  
+Brief Content: {{ post.content }}  
 {% endfor %}
