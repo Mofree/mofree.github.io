@@ -1,3 +1,8 @@
+### Welcome  
+This is zhangzeyu's homepage. Have a nice day!  
+
+------------------------------------------
+
 ### My Blogs  
 You can read my blogs by time or by tag:
  - all my blogs: [blog_list.md](https://mofree.github.io/blog_list.html)  
