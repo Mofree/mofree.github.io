@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "my first post"
-date: 2020-08-02
+my_date: 2020-08-02
 tags: first life
 ---
 Welcome to Jekyll! this is my first Jekyll blog post!  
