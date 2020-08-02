@@ -2,12 +2,10 @@
 layout: default
 title: Blog List
 ---
-# All my blogs11  
+# All my blogs12  
 
 {% for post in site.posts %}
  - [{{ post.title }}]({{ post.url }})  
- time: {{ post.date }}
- {% for tag in post.tags %}
- tag: {{ tag }}
- {% endfor %}
+ time: {{ post.date }}  
+ tag: {% for tag in post.tags %}{{ tag }}{% endfor %}
 {% endfor %}
