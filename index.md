@@ -7,8 +7,8 @@ You can read my blogs by time or by tag:
 ------------------------------------------- 
 ### Personal web navigation  
  - search engines  
- [Google](https://www.google.com/) [Bing](https://www.bing.com/) [Baidu](https://www.baidu.com/)  
+ [Google](https://www.google.com/) | [Bing](https://www.bing.com/) | [Baidu](https://www.baidu.com/)  
  - coding official  
- [GitHub](https://github.com) [Python](https://www.python.org/)  
+ [GitHub](https://github.com) | [Python](https://www.python.org/)  
  - tools  
  [Python tutor](http://www.pythontutor.com/)  
