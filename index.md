@@ -1,2 +1,21 @@
-all my blogs: [blog_list.md](https://mofree.github.io/blog_list.html)  
-blogs by tag: [blog_tag.md](https://mofree.github.io/blog_tag.html)  
+# Hello! 你好呀！  
+Welcome to my personal homepage!  
+欢迎来我的个人主页！  
+May you happy and hardworking.  
+要永远充实和快乐鸭。  
+
+# My Blogs  
+You can read my blogs by time or by tag:  
+ - all my blogs: [blog_list.md](https://mofree.github.io/blog_list.html)  
+ - blogs by tag: [blog_tag.md](https://mofree.github.io/blog_tag.html)  
+ 
+# Personal web navigation  
+## search engines  
+ - [Google](https://www.google.com/)  
+ - [Bing](https://www.bing.com/)  
+ - [Baidu](https://www.baidu.com/)  
+## coding official  
+ - [GitHub](https://github.com)  
+ - [Python](https://www.python.org/)  
+## tools  
+ - [Python tutor](http://www.pythontutor.com/)  
