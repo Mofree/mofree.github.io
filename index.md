@@ -38,6 +38,7 @@ I summarize a few points:
   - [Github Pages + jekyll 全面介绍极简搭建个人网站和博客](https://zhuanlan.zhihu.com/p/51240503): Chinese instructions from *scott.cgi*  
   - I followed the instruction above and created a blog_list.html file to show the brief information of my posts.  
   - [This is the blog_list.md](https://mofree.github.io/blog_list.html): So, we can also use Liquid in .md file.  
+  - Somehow, there happend to be some *<p>* between my sentence. Why?  
 
 - How to add some tags to my posts?
 
