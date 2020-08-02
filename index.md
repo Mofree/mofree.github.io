@@ -35,16 +35,12 @@ I summarize a few points:
 - After a brief reading, I start to test the post function  
   - I created a file under the folder '_posts', and the file's name should be like *YYYY-MM-DD-NAME-OF-POST.md* as instructions says.  
   - I added YAML frontmatter at top of the file.  
-  - [Github Pages + jekyll 全面介绍极简搭建个人网站和博客](https://zhuanlan.zhihu.com/p/51240503): I admit that I find this instruction easy to understand.
+  - [Github Pages + jekyll 全面介绍极简搭建个人网站和博客](https://zhuanlan.zhihu.com/p/51240503): Chinese instructions from *scott.cgi*  
   - I followed the instruction above and created a blog_list.html file to show the brief information of my posts.  
-  - [This is the blog_list.html](https://mofree.github.io/blog_list.html)  
-  - [This is the blog_list_md.md](https://mofree.github.io/blog_list_md.html)  
-  - Still some problems to be resloved...  
+  - [This is the blog_list.md](https://mofree.github.io/blog_list.html): So, we can also use Liquid in .md file.  
 
-- problems:  
-  - 上面的 blog_list 的链接里为什么没有内容？  
-  - Liquid表达只能在.html中写吗？不可以在.md文件中写吗？  
-  - 缩略显示post部分内容的功能如何实现？
+- How to add some tags to my posts?
+
 
 --------------------------------------------------------------------------  
 ## Welcome to GitHub Pages
