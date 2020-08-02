@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Blog List3
+title: Blog List
 ---
-
-# Latest Posts Test3
+# All my blogs  
 
 {% for post in site.posts %}  
-[{{ post.title }}]({{ post.url }})  
-{{ post.excerpt }}  
+ - [{{ post.title }}]({{ post.url }})  
+Brief Content: {{ post.excerpt }}  
 {% endfor %}  
