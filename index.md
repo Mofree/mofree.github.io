@@ -11,7 +11,7 @@ You can read my blogs by time or by tag:
  
 ------------------------------------------
 
-### Personal web navigation  
+### Personal Web Navigation  
  - search engines  
  [Google](https://www.google.com/) | [Bing](https://www.bing.com/) | [Baidu](https://www.baidu.com/)  
  - coding official  
