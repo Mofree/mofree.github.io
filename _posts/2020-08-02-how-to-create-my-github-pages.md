@@ -2,7 +2,7 @@
 layout: default
 title:  "how to create my github pages"
 my_date: 2020-08-02
-tags: record first how_to
+tags: experience first how_to
 ---
 ## Try GitHub Pages
 ### How I made this page
