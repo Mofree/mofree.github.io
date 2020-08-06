@@ -18,3 +18,5 @@ You can read my blogs by time or by tag:
  [GitHub](https://github.com) | [Python](https://www.python.org/)  
  - tools  
  [Python tutor](http://www.pythontutor.com/)  
+- education  
+[清华大学研究生招生网 硕士 简章目录](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html)  
