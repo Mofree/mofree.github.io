@@ -17,7 +17,7 @@ You can read my blogs by time or by tag:
  - Official  
  [GitHub](https://github.com) | [Python](https://www.python.org/)  
  - Tools  
- [Python Tutor](http://www.pythontutor.com/) | [Cambridge Dictionary](https://dictionary.cambridge.org/)  
+ [Python Tutor](http://www.pythontutor.com/) | [Cambridge Dictionary](https://dictionary.cambridge.org/) | [图灵社区](https://www.ituring.com.cn/)  
  - Relaxation  
  [WindowSwap](https://window-swap.com/)  
 - Private  
