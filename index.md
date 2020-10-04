@@ -17,4 +17,4 @@ You can read my blogs by time or by tag:
 [Python](https://www.python.org/) | 
 [Python Tutor](http://www.pythontutor.com/) | 
 [图灵社区](https://www.ituring.com.cn/) | 
-[清华大学研究生招生网 硕士 简章目录](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html) |
+[TSU YZ](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html) |
