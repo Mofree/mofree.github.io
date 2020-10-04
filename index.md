@@ -11,15 +11,10 @@ You can read my blogs by time or by tag:
  
 ------------------------------------------
 
-### Personal Web Navigation  
- - Search Engines  
- [Google](https://www.google.com/) | [Bing](https://www.bing.com/) | [Baidu](https://www.baidu.com/) | [Wiki](https://wikipedia.org/)  
- - Official  
- [GitHub](https://github.com) | [Python](https://www.python.org/)  
- - Tools  
- [Python Tutor](http://www.pythontutor.com/) | [Cambridge Dictionary](https://dictionary.cambridge.org/) | [图灵社区](https://www.ituring.com.cn/)  
- - Relaxation  
- [WindowSwap](https://window-swap.com/)  
-- Private  
-[Google Photos](https://photos.google.com/) | [Pocket](https://app.getpocket.com/)  
-[清华大学研究生招生网 硕士 简章目录](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html)  
+### Coding Understanding creating  
+- Web Nev
+[GitHub](https://github.com) | 
+[Python](https://www.python.org/) | 
+[Python Tutor](http://www.pythontutor.com/) | 
+[图灵社区](https://www.ituring.com.cn/) | 
+[清华大学研究生招生网 硕士 简章目录](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html) |
