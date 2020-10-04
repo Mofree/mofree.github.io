@@ -16,5 +16,5 @@ You can read my blogs by time or by tag:
 [GitHub](https://github.com) | 
 [Python](https://www.python.org/) | 
 [Python Tutor](http://www.pythontutor.com/) | 
-[图灵社区](https://www.ituring.com.cn/) | 
+[ituring](https://www.ituring.com.cn/) | 
 [TSU YZ](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html) |
