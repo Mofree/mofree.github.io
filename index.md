@@ -17,7 +17,7 @@ You can read my blogs by time or by tag:
 [Python](https://www.python.org/) | 
 [Python Tutor](http://www.pythontutor.com/) | 
 [ituring](https://www.ituring.com.cn/) | 
-[TSU YZ](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html) |  
+[TSU YZ](http://yz.tsinghua.edu.cn/publish/yjszs/8549/index.html)  
 
 - Personal  
-[myGitHub](https://github.com/mofree) |
+[my GitHub](https://github.com/mofree)
